@@ -48,6 +48,10 @@
             name: '登录',
             path: '/login'
         },
+        {
+            name: '博客',
+            path: '/blog'
+        },
     ]
 
     const linkTo = (item) => {

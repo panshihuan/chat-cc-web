@@ -51,6 +51,15 @@ const routes = [
         },
         component: () => import('@/views/commodity/detail/index.vue')
       },
+      {
+        path: '/blog',
+        name: 'Blog',
+        meta: {
+          title: 'blog',
+          isNotAuth: true
+        },
+        component: () => import('@/views/blog/index.vue')
+      },
     ]
   },
   {
