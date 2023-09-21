@@ -1,4 +1,4 @@
-name: CI Github Pages
+name: chat-cc-web
 on:
   push:
     branches:
