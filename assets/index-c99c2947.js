@@ -1,2 +1,0 @@
-import{a as o,b as c,d as s,e as _,o as d,f as i,h as u}from"./index-ecf59d4e.js";const f={class:"dify"},h=u("iframe",{src:"https://udify.app/chatbot/l3xQjjOv9fiaj1Zu",style:{width:"100vw",height:"100vh",overflow:"hidden"},frameborder:"0",allow:"microphone"},`
-    `,-1),l=[h],v={__name:"index",setup(p){const n=o({});o(""),c(()=>{});const r=s(),{userInfo:a}=r;return n.value=a,_(()=>{const e=s(),{userInfo:t}=e;return t}),(e,t)=>(d(),i("div",f,l))}};export{v as default};
